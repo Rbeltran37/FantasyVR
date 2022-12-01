@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: df8e6523d882f8549aa554facdbb0f8a
+timeCreated: 1470061683
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Common Arrow
+    100004: Common Arrow-Root
+    100006: Assassins Dagger-Root
+    100008: Basic Shield-Root
+    100010: Basic Wand-Root
+    100012: Bone Wand-Root
+    100014: Bone Wand01
+    100016: Bone002
+    100018: Bone003
+    100020: Bone004
+    100022: Bone005
+    100024: Bone006
+    100026: Bone007
+    100028: Bone008
+    100030: Bone009
+    100032: Bone010
+    100034: Bone011
+    100036: Bone012
+    100038: Bone013
+    100040: Bone014
+    100042: Bone015
+    100044: Bone016
+    100046: Bone017
+    100048: Bone018
+    100050: Bone019
+    100052: Bone020
+    100054: Bone021
+    100056: Bone022
+    100058: Bone023
+    100060: Bone024
+    100062: Bone025
+    100064: Bone026
+    100066: Bone027
+    100068: Bone028
+    100070: Bone029
+    100072: Bone030
+    100074: Bone031
+    100076: Bone032
+    100078: Bone033
+    100080: Bone034
+    100082: Bone035
+    100084: Bone036
+    100086: Bone037
+    100088: Bone038
+    100090: Bone039
+    100092: Bone040
+    100094: Bone041
+    100096: Bone042
+    100098: Bone043
+    100100: Bone044
+    100102: Bone045
+    100104: Bone046
+    100106: Bone047
+    100108: Bone048
+    100110: Bone049
+    100112: Bone050
+    100114: Bone051
+    100116: Bone052
+    100118: Bone053
+    100120: Bone054
+    100122: Bone055
+    100124: Bone056
+    100126: Bone057
+    100128: Bone058
+    100130: Bone059
+    100132: Bone060
+    100134: Bone061
+    100136: Bone062
+    100138: Bone063
+    100140: Bone064
+    100142: Bone065
+    100144: Bone066
+    100146: Bone067
+    100148: Bone068
+    100150: Bone069
+    100152: Bone070
+    100154: Bone071
+    100156: Bone072
+    100158: Bone073
+    100160: Bone074
+    100162: Bone075
+    100164: Bone076
+    100166: Bone077
+    100168: Bone078
+    100170: Bone079
+    100172: Bone080
+    100174: Bone081
+    100176: Bone082
+    100178: Bone083
+    100180: Bone084
+    100182: Bone085
+    100184: Bone086
+    100186: Bone087
+    100188: Bone088
+    100190: Bone089
+    100192: Bone090
+    100194: Bone091
+    100196: Bone092
+    100198: Bone093
+    100200: Bone094
+    100202: Bone095
+    100204: Bone096
+    100206: Bone097
+    100208: Bone098
+    100210: Bone099
+    100212: Bone100
+    100214: Bone101
+    100216: Bone102
+    100218: Bone103
+    100220: Bone104
+    100222: Bone105
+    100224: Bonesword-Root
+    100226: Circle Shield-Root
+    100228: Clerics Staff-Root
+    100230: Common Spear-Root
+    100232: Crystal Arrow
+    100234: Crystal Wand-Root
+    100236: Crystal Wand01
+    100238: Crystal Wand02
+    100240: CrystalSword-Base
+    100242: Cylinder002
+    100244: Cylinder010
+    100246: Dragon Wand-Root
+    100248: Falchion-Root
+    100250: Fishbow-Body005
+    100252: Fishbow-Body006
+    100254: Fishbow-Body007
+    100256: Fishbow-Body008
+    100258: Fishbow-Body01
+    100260: Fishbow-Body02
+    100262: Fishbow-Body03
+    100264: Fishbow-Body04
+    100266: Fishbow-Root
+    100268: Gemmed Sword-Root
+    100270: Glaive-Root
+    100272: Golden Arrow
+    100274: Henchman's Dagger-Root
+    100276: HolyHammer-01
+    100278: HolyHammer-02
+    100280: HolyHammer-03
+    100282: HolyHammer-Root
+    100284: Iron Dagger-Root
+    100286: Iron Sword-Root
+    100288: Justicar-Root
+    100290: Kraken Shield-Root
+    100292: Masterwork Dagger-Root
+    100294: Masterwork Spear-Root
+    100296: Nature Bow-01
+    100298: Nature Bow-02
+    100300: Nature Bow-03
+    100302: Nature Bow-04
+    100304: Nature Bow-05
+    100306: Nature Bow-06
+    100308: Nature Bow-Root
+    100310: NatureArrow-Root
+    100312: NatureArrow-Vine01
+    100314: NatureArrow-Vine02
+    100316: NatureArrow-Vine03
+    100318: NatureArrow-Vine04
+    100320: NatureArrow-Vine05
+    100322: NatureArrow-Vine06
+    100324: Nefas-Core
+    100326: Nefas-Orb01
+    100328: Nefas-Orb02
+    100330: Nefas-Orb03
+    100332: Nefas-Root
+    100334: Obsidian Fury-Root
+    100336: ParticleArrow-Root
+    100338: ParticleArrow-Sparkles
+    100340: Phoenix_Staff
+    100342: Phoenix_Staff-Aura
+    100344: Phoenix_Staff-Fire
+    100346: Runesword-Root
+    100348: SnakeCharmer-Body01
+    100350: SnakeCharmer-Body02
+    100352: SnakeCharmer-Body03
+    100354: SnakeCharmer-Root
+    100356: SnakeCharmer-Tail01
+    100358: SnakeCharmer-Tail02
+    100360: SnakeCharmer-Tail03
+    100362: Spiderbane-Root
+    100364: SpiritShield-Root
+    100366: 'Staff #1'
+    100368: Strawshield Bone-Root
+    100370: Tendral-007
+    100372: Tendral-008
+    100374: Tendral-009
+    100376: Tendral-01
+    100378: Tendral-010
+    100380: Tendral-011
+    100382: Tendral-012
+    100384: Tendral-02
+    100386: Tendral-03
+    100388: Tendral-04
+    100390: Tendral-05
+    100392: Tendral-06
+    100394: The Orc Slayer-Root
+    100396: The Orc Slayer01
+    100398: The Orc Slayer02
+    100400: The Orc Slayer03
+    100402: The Orc Slayer04
+    100404: The Orc Slayer05
+    100406: The Tuningfork-Root
+    100408: Tower Shield-Root
+    100410: Warbow-Root
+    100412: Warbow01
+    100414: Warbow02
+    100416: Warbow03
+    100418: Warbow04
+    100420: Warbow05
+    100422: Warbow06
+    100424: Warhammer-Root
+    100426: Waveblade-Root
+    100428: Windblade-1
+    100430: Windblade-Root
+    100432: Witherstring
+    100434: Wooden Bow-004
+    100436: Wooden Bow-005
+    100438: Wooden Bow-006
+    100440: Wooden Bow-01
+    100442: Wooden Bow-02
+    100444: Wooden Bow-03
+    100446: Wooden Bow-Root
+    100448: Wooden Mallet-Root
+    100450: Zyphyrus-Root
+    400000: //RootNode
+    400002: Common Arrow
+    400004: Common Arrow-Root
+    400006: Assassins Dagger-Root
+    400008: Basic Shield-Root
+    400010: Basic Wand-Root
+    400012: Bone Wand-Root
+    400014: Bone Wand01
+    400016: Bone002
+    400018: Bone003
+    400020: Bone004
+    400022: Bone005
+    400024: Bone006
+    400026: Bone007
+    400028: Bone008
+    400030: Bone009
+    400032: Bone010
+    400034: Bone011
+    400036: Bone012
+    400038: Bone013
+    400040: Bone014
+    400042: Bone015
+    400044: Bone016
+    400046: Bone017
+    400048: Bone018
+    400050: Bone019
+    400052: Bone020
+    400054: Bone021
+    400056: Bone022
+    400058: Bone023
+    400060: Bone024
+    400062: Bone025
+    400064: Bone026
+    400066: Bone027
+    400068: Bone028
+    400070: Bone029
+    400072: Bone030
+    400074: Bone031
+    400076: Bone032
+    400078: Bone033
+    400080: Bone034
+    400082: Bone035
+    400084: Bone036
+    400086: Bone037
+    400088: Bone038
+    400090: Bone039
+    400092: Bone040
+    400094: Bone041
+    400096: Bone042
+    400098: Bone043
+    400100: Bone044
+    400102: Bone045
+    400104: Bone046
+    400106: Bone047
+    400108: Bone048
+    400110: Bone049
+    400112: Bone050
+    400114: Bone051
+    400116: Bone052
+    400118: Bone053
+    400120: Bone054
+    400122: Bone055
+    400124: Bone056
+    400126: Bone057
+    400128: Bone058
+    400130: Bone059
+    400132: Bone060
+    400134: Bone061
+    400136: Bone062
+    400138: Bone063
+    400140: Bone064
+    400142: Bone065
+    400144: Bone066
+    400146: Bone067
+    400148: Bone068
+    400150: Bone069
+    400152: Bone070
+    400154: Bone071
+    400156: Bone072
+    400158: Bone073
+    400160: Bone074
+    400162: Bone075
+    400164: Bone076
+    400166: Bone077
+    400168: Bone078
+    400170: Bone079
+    400172: Bone080
+    400174: Bone081
+    400176: Bone082
+    400178: Bone083
+    400180: Bone084
+    400182: Bone085
+    400184: Bone086
+    400186: Bone087
+    400188: Bone088
+    400190: Bone089
+    400192: Bone090
+    400194: Bone091
+    400196: Bone092
+    400198: Bone093
+    400200: Bone094
+    400202: Bone095
+    400204: Bone096
+    400206: Bone097
+    400208: Bone098
+    400210: Bone099
+    400212: Bone100
+    400214: Bone101
+    400216: Bone102
+    400218: Bone103
+    400220: Bone104
+    400222: Bone105
+    400224: Bonesword-Root
+    400226: Circle Shield-Root
+    400228: Clerics Staff-Root
+    400230: Common Spear-Root
+    400232: Crystal Arrow
+    400234: Crystal Wand-Root
+    400236: Crystal Wand01
+    400238: Crystal Wand02
+    400240: CrystalSword-Base
+    400242: Cylinder002
+    400244: Cylinder010
+    400246: Dragon Wand-Root
+    400248: Falchion-Root
+    400250: Fishbow-Body005
+    400252: Fishbow-Body006
+    400254: Fishbow-Body007
+    400256: Fishbow-Body008
+    400258: Fishbow-Body01
+    400260: Fishbow-Body02
+    400262: Fishbow-Body03
+    400264: Fishbow-Body04
+    400266: Fishbow-Root
+    400268: Gemmed Sword-Root
+    400270: Glaive-Root
+    400272: Golden Arrow
+    400274: Henchman's Dagger-Root
+    400276: HolyHammer-01
+    400278: HolyHammer-02
+    400280: HolyHammer-03
+    400282: HolyHammer-Root
+    400284: Iron Dagger-Root
+    400286: Iron Sword-Root
+    400288: Justicar-Root
+    400290: Kraken Shield-Root
+    400292: Masterwork Dagger-Root
+    400294: Masterwork Spear-Root
+    400296: Nature Bow-01
+    400298: Nature Bow-02
+    400300: Nature Bow-03
+    400302: Nature Bow-04
+    400304: Nature Bow-05
+    400306: Nature Bow-06
+    400308: Nature Bow-Root
+    400310: NatureArrow-Root
+    400312: NatureArrow-Vine01
+    400314: NatureArrow-Vine02
+    400316: NatureArrow-Vine03
+    400318: NatureArrow-Vine04
+    400320: NatureArrow-Vine05
+    400322: NatureArrow-Vine06
+    400324: Nefas-Core
+    400326: Nefas-Orb01
+    400328: Nefas-Orb02
+    400330: Nefas-Orb03
+    400332: Nefas-Root
+    400334: Obsidian Fury-Root
+    400336: ParticleArrow-Root
+    400338: ParticleArrow-Sparkles
+    400340: Phoenix_Staff
+    400342: Phoenix_Staff-Aura
+    400344: Phoenix_Staff-Fire
+    400346: Runesword-Root
+    400348: SnakeCharmer-Body01
+    400350: SnakeCharmer-Body02
+    400352: SnakeCharmer-Body03
+    400354: SnakeCharmer-Root
+    400356: SnakeCharmer-Tail01
+    400358: SnakeCharmer-Tail02
+    400360: SnakeCharmer-Tail03
+    400362: Spiderbane-Root
+    400364: SpiritShield-Root
+    400366: 'Staff #1'
+    400368: Strawshield Bone-Root
+    400370: Tendral-007
+    400372: Tendral-008
+    400374: Tendral-009
+    400376: Tendral-01
+    400378: Tendral-010
+    400380: Tendral-011
+    400382: Tendral-012
+    400384: Tendral-02
+    400386: Tendral-03
+    400388: Tendral-04
+    400390: Tendral-05
+    400392: Tendral-06
+    400394: The Orc Slayer-Root
+    400396: The Orc Slayer01
+    400398: The Orc Slayer02
+    400400: The Orc Slayer03
+    400402: The Orc Slayer04
+    400404: The Orc Slayer05
+    400406: The Tuningfork-Root
+    400408: Tower Shield-Root
+    400410: Warbow-Root
+    400412: Warbow01
+    400414: Warbow02
+    400416: Warbow03
+    400418: Warbow04
+    400420: Warbow05
+    400422: Warbow06
+    400424: Warhammer-Root
+    400426: Waveblade-Root
+    400428: Windblade-1
+    400430: Windblade-Root
+    400432: Witherstring
+    400434: Wooden Bow-004
+    400436: Wooden Bow-005
+    400438: Wooden Bow-006
+    400440: Wooden Bow-01
+    400442: Wooden Bow-02
+    400444: Wooden Bow-03
+    400446: Wooden Bow-Root
+    400448: Wooden Mallet-Root
+    400450: Zyphyrus-Root
+    2300000: Crystal Arrow
+    2300002: Cylinder002
+    2300004: Cylinder010
+    2300006: Golden Arrow
+    2300008: 'Staff #1'
+    2300010: Witherstring
+    3300000: Crystal Arrow
+    3300002: Cylinder002
+    3300004: Cylinder010
+    3300006: Golden Arrow
+    3300008: 'Staff #1'
+    3300010: Witherstring
+    4300000: Common Arrow
+    4300002: 'Staff #1'
+    4300004: Cylinder002
+    4300006: Cylinder010
+    4300008: Golden Arrow
+    4300010: Crystal Arrow
+    4300012: Witherstring
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Common Arrow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

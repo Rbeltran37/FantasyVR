@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 1817c557977436349878f6291b7f9cf9
+timeCreated: 1469977385
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fishbow-Root
+    100004: Box010
+    100006: Fishbow-Body005
+    100008: Fishbow-Body006
+    100010: Fishbow-Body007
+    100012: Fishbow-Body008
+    100014: Fishbow-Body01
+    100016: Fishbow-Body02
+    100018: Fishbow-Body03
+    100020: Fishbow-Body04
+    100022: Fishbow-Lowerjaw002
+    100024: Fishbow-Lowerjaw01
+    100026: Fishbow-String
+    100028: Fishbow-Upperjaw
+    100030: Fishbow-Upperjaw001
+    100032: Tendral-007
+    100034: Tendral-008
+    100036: Tendral-009
+    100038: Tendral-01
+    100040: Tendral-010
+    100042: Tendral-011
+    100044: Tendral-012
+    100046: Tendral-02
+    100048: Tendral-03
+    100050: Tendral-04
+    100052: Tendral-05
+    100054: Tendral-06
+    400000: //RootNode
+    400002: Fishbow-Root
+    400004: Box010
+    400006: Fishbow-Body005
+    400008: Fishbow-Body006
+    400010: Fishbow-Body007
+    400012: Fishbow-Body008
+    400014: Fishbow-Body01
+    400016: Fishbow-Body02
+    400018: Fishbow-Body03
+    400020: Fishbow-Body04
+    400022: Fishbow-Lowerjaw002
+    400024: Fishbow-Lowerjaw01
+    400026: Fishbow-String
+    400028: Fishbow-Upperjaw
+    400030: Fishbow-Upperjaw001
+    400032: Tendral-007
+    400034: Tendral-008
+    400036: Tendral-009
+    400038: Tendral-01
+    400040: Tendral-010
+    400042: Tendral-011
+    400044: Tendral-012
+    400046: Tendral-02
+    400048: Tendral-03
+    400050: Tendral-04
+    400052: Tendral-05
+    400054: Tendral-06
+    4300000: Box010
+    7400000: Idle
+    7400002: Drawback
+    7400004: Firing
+    9500000: //RootNode
+    13700000: Box010
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Fishbow-Lowerjaw01
+        weight: 1
+      - path: Fishbow-Lowerjaw002
+        weight: 1
+      - path: Fishbow-Root
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02/Fishbow-Body03
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02/Fishbow-Body03/Fishbow-Body04
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007/Fishbow-Body005
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007/Fishbow-Body005/Fishbow-Body006
+        weight: 1
+      - path: Fishbow-Root/Tendral-01
+        weight: 1
+      - path: Fishbow-Root/Tendral-01/Tendral-02
+        weight: 1
+      - path: Fishbow-Root/Tendral-01/Tendral-02/Tendral-03
+        weight: 1
+      - path: Fishbow-Root/Tendral-04
+        weight: 1
+      - path: Fishbow-Root/Tendral-04/Tendral-05
+        weight: 1
+      - path: Fishbow-Root/Tendral-04/Tendral-05/Tendral-06
+        weight: 1
+      - path: Fishbow-Root/Tendral-007
+        weight: 1
+      - path: Fishbow-Root/Tendral-007/Tendral-012
+        weight: 1
+      - path: Fishbow-Root/Tendral-007/Tendral-012/Tendral-010
+        weight: 1
+      - path: Fishbow-Root/Tendral-009
+        weight: 1
+      - path: Fishbow-Root/Tendral-009/Tendral-008
+        weight: 1
+      - path: Fishbow-Root/Tendral-009/Tendral-008/Tendral-011
+        weight: 1
+      - path: Fishbow-String
+        weight: 1
+      - path: Fishbow-Upperjaw
+        weight: 1
+      - path: Fishbow-Upperjaw001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drawback
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Fishbow-Lowerjaw01
+        weight: 1
+      - path: Fishbow-Lowerjaw002
+        weight: 1
+      - path: Fishbow-Root
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02/Fishbow-Body03
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02/Fishbow-Body03/Fishbow-Body04
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007/Fishbow-Body005
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007/Fishbow-Body005/Fishbow-Body006
+        weight: 1
+      - path: Fishbow-Root/Tendral-01
+        weight: 1
+      - path: Fishbow-Root/Tendral-01/Tendral-02
+        weight: 1
+      - path: Fishbow-Root/Tendral-01/Tendral-02/Tendral-03
+        weight: 1
+      - path: Fishbow-Root/Tendral-04
+        weight: 1
+      - path: Fishbow-Root/Tendral-04/Tendral-05
+        weight: 1
+      - path: Fishbow-Root/Tendral-04/Tendral-05/Tendral-06
+        weight: 1
+      - path: Fishbow-Root/Tendral-007
+        weight: 1
+      - path: Fishbow-Root/Tendral-007/Tendral-012
+        weight: 1
+      - path: Fishbow-Root/Tendral-007/Tendral-012/Tendral-010
+        weight: 1
+      - path: Fishbow-Root/Tendral-009
+        weight: 1
+      - path: Fishbow-Root/Tendral-009/Tendral-008
+        weight: 1
+      - path: Fishbow-Root/Tendral-009/Tendral-008/Tendral-011
+        weight: 1
+      - path: Fishbow-String
+        weight: 1
+      - path: Fishbow-Upperjaw
+        weight: 1
+      - path: Fishbow-Upperjaw001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firing
+      takeName: Take 001
+      firstFrame: 97
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Fishbow-Lowerjaw01
+        weight: 1
+      - path: Fishbow-Lowerjaw002
+        weight: 1
+      - path: Fishbow-Root
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02/Fishbow-Body03
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body01/Fishbow-Body02/Fishbow-Body03/Fishbow-Body04
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007/Fishbow-Body005
+        weight: 1
+      - path: Fishbow-Root/Fishbow-Body008/Fishbow-Body007/Fishbow-Body005/Fishbow-Body006
+        weight: 1
+      - path: Fishbow-Root/Tendral-01
+        weight: 1
+      - path: Fishbow-Root/Tendral-01/Tendral-02
+        weight: 1
+      - path: Fishbow-Root/Tendral-01/Tendral-02/Tendral-03
+        weight: 1
+      - path: Fishbow-Root/Tendral-04
+        weight: 1
+      - path: Fishbow-Root/Tendral-04/Tendral-05
+        weight: 1
+      - path: Fishbow-Root/Tendral-04/Tendral-05/Tendral-06
+        weight: 1
+      - path: Fishbow-Root/Tendral-007
+        weight: 1
+      - path: Fishbow-Root/Tendral-007/Tendral-012
+        weight: 1
+      - path: Fishbow-Root/Tendral-007/Tendral-012/Tendral-010
+        weight: 1
+      - path: Fishbow-Root/Tendral-009
+        weight: 1
+      - path: Fishbow-Root/Tendral-009/Tendral-008
+        weight: 1
+      - path: Fishbow-Root/Tendral-009/Tendral-008/Tendral-011
+        weight: 1
+      - path: Fishbow-String
+        weight: 1
+      - path: Fishbow-Upperjaw
+        weight: 1
+      - path: Fishbow-Upperjaw001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
