@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snow v1
+  m_Shader: {fileID: -6465566751694194690, guid: 1607285f94dc75c479584b012a6d0c1a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Gloss:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2D855607:
+        m_Texture: {fileID: 2800000, guid: 9310afa83c640ea42ba2828f07d04fb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_36E76389:
+        m_Texture: {fileID: 2800000, guid: 6bbfce636ad802948a95e84d48b522e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4F623058:
+        m_Texture: {fileID: 2800000, guid: 844f9d6d255fead4dae647231364d871, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B8B89E0A:
+        m_Texture: {fileID: 2800000, guid: 8e0ddf09e6f28c74fb0c5597caa3cc21, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FD08C8F5:
+        m_Texture: {fileID: 2800000, guid: 3a156a407ce0dca469edb2ce8c0ffe1d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FEC260BD:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4AA1ECB1: 0.5
+    - Vector1_71B0F531: 1
+    - Vector1_82B89F85: 1.16
+    - Vector1_CD781F4A: 0.019
+    - Vector1_DFF50514: 6.08
+    - Vector1_E8D47F02: 0.5
+    m_Colors:
+    - Vector2_1A7526E8: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_1AE642D1: {r: 5, g: 5, b: 5, a: 0}
+    - Vector3_7DCC3605: {r: 0, g: 0, b: 0, a: 0}
+    - Vector3_981ECCE5: {r: 0, g: 9.96, b: 0.52, a: 0}

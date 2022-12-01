@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShockWave_01
+  m_Shader: {fileID: -6465566751694194690, guid: 1502904d6818836489f5d3b993c0b0bc,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_4B0904A9:
+        m_Texture: {fileID: 2800000, guid: a119dc3bf61a5f74a92c2083a429bfdd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_74ADD828: 1
+    - Vector1_AB60E678: 10
+    - Vector1_BCEF6112: 0.1
+    - Vector1_C7E2197E: 4
+    m_Colors:
+    - Color_ADC9D74: {r: 15.999998, g: 1.7591621, b: 0, a: 1}
+    - Vector2_3DE2ACC3: {r: 1, g: -4, b: 0, a: 0}
+    - Vector2_50E67341: {r: 2, g: -5, b: 0, a: 0}

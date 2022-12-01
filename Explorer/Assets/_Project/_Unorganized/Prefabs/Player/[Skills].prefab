@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7791199286647447309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7791199286647447310}
+  - component: {fileID: 7791199286647447311}
+  m_Layer: 15
+  m_Name: '[RightHandSkills]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7791199286647447310
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7791199286647447309}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7791199286793554560}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7791199286647447311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7791199286647447309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c78534028887f541abc132ad44168c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  holsterManager: {fileID: 11400000, guid: b3f185f49f204e54c90b704fdeca35cb, type: 2}
+  objectPool: {fileID: 11400000, guid: 740ca7dd32b2f164fb9960281f0d0ff9, type: 2}
+  ringFX: {fileID: 0}
+  emitter: {fileID: 0}
+  audioSource: {fileID: 0}
+--- !u!1 &7791199286793554575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7791199286793554560}
+  - component: {fileID: 7791199286793554562}
+  m_Layer: 15
+  m_Name: '[Skills]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7791199286793554560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7791199286793554575}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.40784556, y: 3.1599922, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7791199287227821957}
+  - {fileID: 7791199286647447310}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7791199286793554562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7791199286793554575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09609658d1a168f4b93a977fdc05d435, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leftEmitter: {fileID: 0}
+  rightEmitter: {fileID: 0}
+  leftHandSkills: {fileID: 7791199287227821957}
+  rightHandSkills: {fileID: 7791199286647447310}
+  leftSkillCount: {fileID: 7791199287227821958}
+  rightSkillCount: {fileID: 7791199286647447311}
+  manaPool: {fileID: 0}
+  currentLeftHandSkill: {fileID: 0}
+  currentRightHandSkill: {fileID: 0}
+--- !u!1 &7791199287227821956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7791199287227821957}
+  - component: {fileID: 7791199287227821958}
+  m_Layer: 15
+  m_Name: '[LeftHandSkills]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7791199287227821957
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7791199287227821956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7791199286793554560}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7791199287227821958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7791199287227821956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c78534028887f541abc132ad44168c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  holsterManager: {fileID: 11400000, guid: b3f185f49f204e54c90b704fdeca35cb, type: 2}
+  objectPool: {fileID: 11400000, guid: 740ca7dd32b2f164fb9960281f0d0ff9, type: 2}
+  ringFX: {fileID: 0}
+  emitter: {fileID: 0}
+  audioSource: {fileID: 0}
