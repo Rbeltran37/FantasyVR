@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52207b39e30cb3f448eaa7e3380672d8, type: 3}
+  m_Name: Firewall_SkillContainer
+  m_EditorClassIdentifier: 
+  skillName: Firewall
+  skillPrefab: {fileID: 7069418879615836760, guid: a4ac427363281274eb4213ccffec0bb5,
+    type: 3}
+  SkillSo: {fileID: 11400000, guid: ed894cbc5b3e4d94b80a2e2c2bd7c80d, type: 2}

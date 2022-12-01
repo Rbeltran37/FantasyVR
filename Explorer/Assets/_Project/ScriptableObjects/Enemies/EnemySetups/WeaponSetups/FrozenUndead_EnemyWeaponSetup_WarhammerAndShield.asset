@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e90e6910e9040574181b56ab2119b168, type: 3}
+  m_Name: FrozenUndead_EnemyWeaponSetup_WarhammerAndShield
+  m_EditorClassIdentifier: 
+  simpleAiData: {fileID: 11400000, guid: b4c5f483aa21c96438881073645fa9f0, type: 2}
+  aimIkAxisLeft: 4
+  clampWeightLeft: 0.1
+  aimIkShoulderWeightLeft: 0.2
+  aimIkArmWeightLeft: 0.2
+  aimIkForearmWeightLeft: 0.4
+  aimIkHandWeightLeft: 0.6
+  aimIkAxisRight: 4
+  clampWeightRight: 0.8
+  aimIkShoulderWeightRight: 0.2
+  aimIkArmWeightRight: 0.2
+  aimIkForearmWeightRight: 0.4
+  aimIkHandWeightRight: 0.6
+  LeftEnemyWeaponSo: {fileID: 11400000, guid: 0ea6d3e1bb0c12844b985c10f27999a1, type: 2}
+  RightEnemyWeaponSo: {fileID: 11400000, guid: ba071f2579ef6d54d9caee6284cba233, type: 2}

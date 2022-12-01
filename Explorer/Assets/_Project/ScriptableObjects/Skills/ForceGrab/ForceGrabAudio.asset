@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df3afc9d341618449150d9981908026, type: 3}
+  m_Name: ForceGrabAudio
+  m_EditorClassIdentifier: 
+  startUseClips:
+  - {fileID: 8300000, guid: 8d51c72fe18acae428cf564d202afc8d, type: 3}
+  - {fileID: 8300000, guid: e4a3ddcb9fb8ef24bb45b6ff4afd2cda, type: 3}
+  startUseVolume:
+    minValue: 0.8880448
+    maxValue: 1
+  startUsePitch:
+    minValue: 1.0315874
+    maxValue: 1.439424
+  holdClips:
+  - {fileID: 8300000, guid: 8d51c72fe18acae428cf564d202afc8d, type: 3}
+  holdVolume:
+    minValue: 0.80807686
+    maxValue: 1
+  holdPitch:
+    minValue: 0.71971214
+    maxValue: 1.0075967
+  endUseClips: []
+  endUseVolume:
+    minValue: 0
+    maxValue: 0
+  endUsePitch:
+    minValue: 0
+    maxValue: 0
+  impactClips:
+  - {fileID: 8300000, guid: eb9f33e0e44f246409f7b7167dc94002, type: 3}
+  impactVolume:
+    minValue: 0.61615354
+    maxValue: 0.8480608
+  impactPitch:
+    minValue: 0.7437025
+    maxValue: 1.2954817

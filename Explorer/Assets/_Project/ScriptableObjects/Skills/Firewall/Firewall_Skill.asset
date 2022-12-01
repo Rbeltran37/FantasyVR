@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e220063c5dc99a41a59d6d999974686, type: 3}
+  m_Name: Firewall_Skill
+  m_EditorClassIdentifier: 
+  SkillName: Firewall
+  holsterModel: {fileID: 7222795474065904334, guid: e6a3bcf4e67a1384fb9e00385652f406,
+    type: 3}
+  holsterRing: {fileID: 8991324447943036254, guid: 2a94423f0d22a0f4ca4735f08697bed9,
+    type: 3}
+  equipFx: {fileID: 2696722306437082447, guid: 2f98bbfc2a13160439f50bcdcb1a5200, type: 3}
+  cooldownUiSprite: {fileID: 21300000, guid: f5150d39852d0d74382e61497f5d2d5e, type: 3}
+  uiColor: {r: 1, g: 0.65882355, b: 0, a: 1}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 2
+  castingAudioEvent: {fileID: 11400000, guid: 817e40b79536d1547ae1ececb090ef74, type: 2}
+  castingAudioInterval: 3
+  castingHapticEvent: {fileID: 11400000, guid: 0ed054b801ec70f4a9e0ca778ad5a645, type: 2}
+  castingHapticInterval: 0.5
+  castAudioEvent: {fileID: 11400000, guid: 2894e6d65fb94204a90a0fe36166f27d, type: 2}
+  castHapticEvent: {fileID: 11400000, guid: a979fb19d8ede1848922591170c0bfb2, type: 2}
+  Modifiables:
+  - {fileID: 11400000, guid: c4495095d0a6b304cb3765443e3c0e0a, type: 2}
+  - {fileID: 11400000, guid: 9e2a134b6fd647549bfcfadbd3c24d32, type: 2}
+  - {fileID: 11400000, guid: 2c51f83a942d95d4ba865419a6bf37f0, type: 2}
+  - {fileID: 11400000, guid: 21f58c5f529fc524a8fbb8954bc69910, type: 2}
+  - {fileID: 11400000, guid: ef25c54daee4cbb45b0c1f6b78c1c231, type: 2}
+  - {fileID: 11400000, guid: 4917137f713cb754e9b644aaba3da844, type: 2}
+  - {fileID: 11400000, guid: f2a7ae5f06c02044c8cd6f1376834c03, type: 2}
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}

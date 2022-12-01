@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3389924582510438713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3389924582510438663}
+  - component: {fileID: 3389924582510438662}
+  m_Layer: 0
+  m_Name: '[LootSpawner]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3389924582510438663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3389924582510438713}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.616, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3389924582510438662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3389924582510438713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2489b17749228fd4f9045daf726ece40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnTransform: {fileID: 3389924582510438663}
+  lootDropProbability: 50
+  loots:
+  - LootObjectPool: {fileID: 11400000, guid: edb5e624b61585d4db1427c09b54f670, type: 2}
+    Probability: 3
+  - LootObjectPool: {fileID: 11400000, guid: ca7a5489e2d5c6047ba5eb1d5b22d59a, type: 2}
+    Probability: 1
+  - LootObjectPool: {fileID: 11400000, guid: 9bd868f5d2a00ec42ad8975ef42d0c0c, type: 2}
+    Probability: 3
+  - LootObjectPool: {fileID: 11400000, guid: de6bf3df86175154d91b76a13b23b7b7, type: 2}
+    Probability: 1

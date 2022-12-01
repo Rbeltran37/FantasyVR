@@ -1,0 +1,36 @@
+# Blender MTL File: 'arenamodkit.blend'
+# Material Count: 3
+
+newmtl Arena_Brick_1.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\kev\\Documents\\Unity Projects\\SmashDemo\\Explorer\\Assets\\0_Project\\Scenes\\ArenaBlockout\\Textures\\Brick 1\\ArenaBrick_1_normal.tga
+map_Kd C:\\Users\\kev\\Documents\\Unity Projects\\SmashDemo\\Explorer\\Assets\\0_Project\\Scenes\\ArenaBlockout\\Textures\\Brick 1\\ArenaBrick_1_basecolor.tga
+
+newmtl Arena_Trim_2.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\kev\\Desktop\\theVanta\\ArenaBlockout\\DecorativeTrim_basecolor_1.tga
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\kev\\Desktop\\theVanta\\ArenaBlockout\\Wood_Grid_basecolor_1.tga

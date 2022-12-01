@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6cce17968bcf94796e69329fb608ac, type: 3}
+  m_Name: Supernova_Ability_2_Modifiable
+  m_EditorClassIdentifier: 
+  ModifierTypeSo: {fileID: 11400000, guid: 5487e7525d0e3884aa19be39f3fc0155, type: 2}
+  MinValue: 0.5
+  MaxValue: 3
+  BaseLevel: 0
+  ReverseModifyLevel: 0

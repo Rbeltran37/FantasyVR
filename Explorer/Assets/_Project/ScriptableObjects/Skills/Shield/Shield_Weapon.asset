@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eeb6a447e848f549b6ccb307a2a7d39, type: 3}
+  m_Name: Shield_Weapon
+  m_EditorClassIdentifier: 
+  SkillName: Shield
+  holsterModel: {fileID: 8286660752735313407, guid: a44f69a3b5709864b8af97ee4f2c949d,
+    type: 3}
+  holsterRing: {fileID: 0}
+  equipFx: {fileID: 0}
+  cooldownUiSprite: {fileID: 21300000, guid: 6bba4247719d26545b87e1cac74b8a46, type: 3}
+  uiColor: {r: 0.5372549, g: 0.59607846, b: 0.70980394, a: 1}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 0
+  castingAudioEvent: {fileID: 0}
+  castingAudioInterval: 0
+  castingHapticEvent: {fileID: 0}
+  castingHapticInterval: 0
+  castAudioEvent: {fileID: 0}
+  castHapticEvent: {fileID: 0}
+  Modifiables:
+  - {fileID: 11400000, guid: 9fd8e7b8107c7ec43bd530175b755c24, type: 2}
+  - {fileID: 11400000, guid: f041726cf1b218645a91604bed310ccd, type: 2}
+  - {fileID: 11400000, guid: 4f921cc2862b7db4189d6a1668f44b79, type: 2}
+  - {fileID: 11400000, guid: 0cffa9c5ee959f74095db488f05c788a, type: 2}
+  - {fileID: 11400000, guid: d8b8850726052854da79ed153debafb5, type: 2}
+  - {fileID: 11400000, guid: e618919ebc1efe04fb8c0471cff3f8a2, type: 2}
+  - {fileID: 11400000, guid: c9eba6972080f6b4591fd58d258af6a8, type: 2}
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}
+  weaponPrefab: {fileID: 6660376101966251041, guid: 40ee057e5fcd69740863f4e0a8d60212,
+    type: 3}
+  localPosition: {x: 0.25, y: 0.05, z: -0.025}
+  localEuler: {x: -130, y: 0, z: 5}
+  weaponRigidMass: 5
+  minHitVelocity: 4
+  hitBufferTime: 0.3
+  isDefaultLocalXScalePositive: 1
+  HitHapticEvent: {fileID: 11400000, guid: 58d98eec26b5dbf4a82add89ee4870b8, type: 2}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1331ecc5b804e829c016c6efd1edd56, type: 3}
+  m_Name: Goblin_Daggers__SimpleAi
+  m_EditorClassIdentifier: 
+  numAttacks: 8
+  numShortAttacks: 3
+  numMediumAttacks: 2
+  numLongAttacks: 2
+  numProjectileAttacks: 0
+  isStunnedBoolId: -826361734
+  actionIndexId: -320205625
+  shortAttackMin: 0
+  shortAttackMax: 3
+  mediumAttackMin: 3
+  mediumAttackMax: 5
+  longAttackMin: 5
+  longAttackMax: 7
+  projectileAttackMin: 7
+  projectileAttackMax: 7
+  numBackUpClips: 3
+  backUpIndexId: -826930231
+  blockBoolId: 1121630246
+  isParriedId: 32314237
+  dodgeForwardTriggerId: 1188628418
+  dodgeLeftTriggerId: -1401434927
+  dodgeRightTriggerId: 111242775
+  isPrimaryEquippedBoolId: -666540804
+  isSecondaryEquippedBoolId: -96761578
+  equipPrimaryTriggerId: -438472853
+  equipSecondaryTriggerId: 1834056835
+  blockAxis: 3
+  blockClampWeight: 0.2
+  blockWeights:
+  - 0.6
+  - 0.8
+  - 1
+  - 1
+  attackAxis: 3
+  attackClampWeight: 0.8
+  attackWeights:
+  - 0.2
+  - 0.2
+  - 0.4
+  - 0.6
+  blockHandedness: 2
+  accuracy: 0

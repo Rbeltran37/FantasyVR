@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e220063c5dc99a41a59d6d999974686, type: 3}
+  m_Name: IceBall_Skill
+  m_EditorClassIdentifier: 
+  SkillName: Ice Ball
+  holsterModel: {fileID: 758141925149482948, guid: 5cbc2e60fe97ff94a8d28f5fe990febd,
+    type: 3}
+  holsterRing: {fileID: 3960450991241025184, guid: 099b37793714f704596f11806e0f62e9,
+    type: 3}
+  equipFx: {fileID: 7761327218537998068, guid: b4d60674f7ba083418d47c15d693c78b, type: 3}
+  cooldownUiSprite: {fileID: 21300000, guid: 2f8b1f6791a41ab42899f1b995384ba4, type: 3}
+  uiColor: {r: 0, g: 1, b: 0.96862745, a: 1}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 0
+  castingAudioEvent: {fileID: 0}
+  castingAudioInterval: 0
+  castingHapticEvent: {fileID: 0}
+  castingHapticInterval: 0
+  castAudioEvent: {fileID: 11400000, guid: 58ee338c45ff6b146b5b7149cf6593d5, type: 2}
+  castHapticEvent: {fileID: 11400000, guid: f3f8651dbdd662948854da6e267b943d, type: 2}
+  Modifiables:
+  - {fileID: 11400000, guid: c7cf4d2e90f2b3f4daac9415f8e1b01d, type: 2}
+  - {fileID: 11400000, guid: 787ec88639f3c9240b1eb25f22121fa8, type: 2}
+  - {fileID: 11400000, guid: b9a9dbe964b7030479ba8f047e6b6888, type: 2}
+  - {fileID: 11400000, guid: e780d8f0a0b23324bb4103caa71e24ef, type: 2}
+  - {fileID: 11400000, guid: ad612a41f6e994d40b70c74898d6b840, type: 2}
+  - {fileID: 11400000, guid: 66bc3dae7e929954ca40dac5417e2e78, type: 2}
+  - {fileID: 11400000, guid: 0ce5ef464ebce1c4391bc636870c7404, type: 2}
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}

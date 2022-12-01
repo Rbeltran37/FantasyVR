@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e220063c5dc99a41a59d6d999974686, type: 3}
+  m_Name: Supernova_Skill
+  m_EditorClassIdentifier: 
+  SkillName: Supernova
+  holsterModel: {fileID: 7222795474065904334, guid: e6a3bcf4e67a1384fb9e00385652f406,
+    type: 3}
+  holsterRing: {fileID: 8991324447943036254, guid: 2a94423f0d22a0f4ca4735f08697bed9,
+    type: 3}
+  equipFx: {fileID: 2696722306437082447, guid: 2f98bbfc2a13160439f50bcdcb1a5200, type: 3}
+  cooldownUiSprite: {fileID: 21300000, guid: f5150d39852d0d74382e61497f5d2d5e, type: 3}
+  uiColor: {r: 1, g: 0.65882355, b: 0, a: 1}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 1
+  castingAudioEvent: {fileID: 11400000, guid: 1010d0ac2f2ec794992911e69827ccc2, type: 2}
+  castingAudioInterval: 1.5
+  castingHapticEvent: {fileID: 11400000, guid: c85a27b7a601ce849a617a019d199819, type: 2}
+  castingHapticInterval: 0.3
+  castAudioEvent: {fileID: 11400000, guid: bf52d1883e2d57a49957b7500c7b78b9, type: 2}
+  castHapticEvent: {fileID: 11400000, guid: a2592742262e3a34580c45a4981f2353, type: 2}
+  Modifiables:
+  - {fileID: 11400000, guid: 817bf8905e26ce24caa51e585bf84312, type: 2}
+  - {fileID: 11400000, guid: c03df39fac8bac44f9a679b9915659cc, type: 2}
+  - {fileID: 11400000, guid: 9d59853a3c6c385408bf03869755e387, type: 2}
+  - {fileID: 11400000, guid: d456bfbf669a08840967bd99c1ac9315, type: 2}
+  - {fileID: 11400000, guid: 16a66192319cc644b943c5e767573a0c, type: 2}
+  - {fileID: 11400000, guid: 13842c5a712e9d840853df411a1087cf, type: 2}
+  - {fileID: 11400000, guid: ae0484eeae1967448abdadeb8b04c3ff, type: 2}
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}

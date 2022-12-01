@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f12c5d7e6879f848b838cb83d8eab21, type: 3}
+  m_Name: Sand_ElementAudio
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 5ad8a0c3301b69741a6babdbecf70f68, type: 3}
+  - {fileID: 8300000, guid: 2554ca30c0636064b98d44eee977a51b, type: 3}
+  volume:
+    minValue: 0.61538464
+    maxValue: 1
+  pitch:
+    minValue: 0.71928066
+    maxValue: 1.3486509
+  volumeMultiplier: 0.25
+  pitchMultiplier: 0.25

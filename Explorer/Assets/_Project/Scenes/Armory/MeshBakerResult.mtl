@@ -1,0 +1,46 @@
+newmtl ArmoryTextureBakerResult-mat0
+map_Pm ArmoryTextureBakerResult-mat0-_MetallicGlossMap-atlas-3.png
+bump ArmoryTextureBakerResult-mat0-_BumpMap-atlas-1.png
+map_Kd ArmoryTextureBakerResult-mat0-_MainTex-atlas-0.png
+Kd 1 1 1
+d 1
+
+newmtl ArmoryTextureBakerResult-mat2
+map_Pm GlyphBrick_01_metallic.tga
+bump GlyphBrick_01_normal.tga
+map_Kd GlyphBrick_01_basecolor.tga
+Kd 1 1 1
+d 1
+
+newmtl ArmoryTextureBakerResult-mat3
+map_Pm WoodTrim_MetallicSmoothness.png
+bump WoodTrim_Normal.png
+map_Kd WoodTrim_AlbedoTransparency.png
+Kd 1 1 1
+d 1
+
+newmtl ArmoryTextureBakerResult-mat4
+map_Pm ArmoryBrick_MetallicSmoothness.tga
+bump ArmoryBrick_Normal.tga
+map_Kd ArmoryBrick_AlbedoTransparency.tga
+Kd 1 1 1
+d 1
+
+newmtl ArmoryTextureBakerResult-mat5
+bump ArenaGround_Brick_Normal.tga
+map_Kd ArenaGround_Brick_AlbedoTransparency.tga
+Kd 0 0 0
+d 0
+
+newmtl ArmoryTextureBakerResult-mat6
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl ArmoryTextureBakerResult-mat1
+map_Pm Chain_MetallicSmoothness.tga
+bump Chain_Normal.tga
+map_Ke Chain_AlbedoTransparency.tga
+map_Kd Chain_AlbedoTransparency.tga
+Kd 1 1 1
+d 1
+

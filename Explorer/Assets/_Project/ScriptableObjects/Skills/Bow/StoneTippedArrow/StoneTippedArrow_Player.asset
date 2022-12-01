@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aef68cc2e92d1649b78c77c46a22e30, type: 3}
+  m_Name: StoneTippedArrow_Player
+  m_EditorClassIdentifier: 
+  simpleAudioEvent: {fileID: 11400000, guid: a7becdbc3370f094f9f2ae26f4344a2a, type: 2}
+  hittableLayers:
+    serializedVersion: 2
+    m_Bits: 164865
+  launchSpeed: 50
+  rotationSpeed: 10
+  arrowLifetime: 8
+  numDeflections: 2

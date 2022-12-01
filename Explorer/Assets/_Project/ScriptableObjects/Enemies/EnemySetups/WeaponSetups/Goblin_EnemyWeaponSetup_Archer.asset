@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e90e6910e9040574181b56ab2119b168, type: 3}
+  m_Name: Goblin_EnemyWeaponSetup_Archer
+  m_EditorClassIdentifier: 
+  simpleAiData: {fileID: 11400000, guid: d4d334196c833884a907ad8fd75cc9e6, type: 2}
+  leftHandObjectPool: {fileID: 11400000, guid: 0c44a68e0223c484e82f2f97dd9412ef, type: 2}
+  weaponLocalPositionLeft: {x: 0.091, y: 0.134, z: 0.02}
+  weaponLocalRotationLeft: {x: -56.036, y: -157.856, z: 73.604}
+  aimIkAxisLeft: 4
+  clampWeightLeft: 0.85
+  aimIkShoulderWeightLeft: 1
+  aimIkArmWeightLeft: 1
+  aimIkForearmWeightLeft: 1
+  aimIkHandWeightLeft: 1
+  rightHandObjectPool: {fileID: 0}
+  weaponLocalPositionRight: {x: 0.2135586, y: 0.03483063, z: 0.04931873}
+  weaponLocalRotationRight: {x: 178.384, y: -3.479004, z: 57.89899}
+  aimIkAxisRight: 0
+  clampWeightRight: 0
+  aimIkShoulderWeightRight: 0
+  aimIkArmWeightRight: 0
+  aimIkForearmWeightRight: 0
+  aimIkHandWeightRight: 0
+  LeftEnemyWeaponSo: {fileID: 11400000, guid: 7c8d909a5fd896949972eba0008b182a, type: 2}
+  RightEnemyWeaponSo: {fileID: 0}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df3afc9d341618449150d9981908026, type: 3}
+  m_Name: Firewall_SkillAudioManager
+  m_EditorClassIdentifier: 
+  startUseClips:
+  - {fileID: 8300000, guid: 9e2c588cd4a91d74293834463050bce3, type: 3}
+  startUseVolume:
+    minValue: 0.72727275
+    maxValue: 0.9304813
+  startUsePitch:
+    minValue: 0.80213916
+    maxValue: 1.2834232
+  holdClips: []
+  holdVolume:
+    minValue: 0
+    maxValue: 0
+  holdPitch:
+    minValue: 0
+    maxValue: 0
+  endUseClips: []
+  endUseVolume:
+    minValue: 0
+    maxValue: 0
+  endUsePitch:
+    minValue: 0
+    maxValue: 0
+  impactClips:
+  - {fileID: 8300000, guid: 833b215a57a7d1046b1ec171b77e7c60, type: 3}
+  impactVolume:
+    minValue: 0.8609625
+    maxValue: 1
+  impactPitch:
+    minValue: 0.7540107
+    maxValue: 0.9786102

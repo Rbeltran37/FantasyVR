@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_glow_effect
+  m_Shader: {fileID: -6465566751694194690, guid: 80b2522dacbd7e44b8b46fa6e80b25f6,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_9E151A4_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 38918e4a3a51de449ac17522c674d9a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_151EC8DA: 3
+    - Vector1_212143EF: -1
+    - Vector1_2A98456B: 124.57
+    - Vector1_48F0DF25: 1.8
+    - Vector1_A5C1C06E: 3
+    m_Colors:
+    - Color_AE167A3: {r: 1, g: 0.6084117, b: 0, a: 0}
+    - Vector2_62FD4844: {r: 0, g: 2, b: 0, a: 0}

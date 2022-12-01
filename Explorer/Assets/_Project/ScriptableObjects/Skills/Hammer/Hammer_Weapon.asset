@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eeb6a447e848f549b6ccb307a2a7d39, type: 3}
+  m_Name: Hammer_Weapon
+  m_EditorClassIdentifier: 
+  SkillName: Hammer
+  holsterModel: {fileID: 9015916217990387840, guid: 57189f1621680e64391f5fc0c609e5d2,
+    type: 3}
+  holsterRing: {fileID: 0}
+  equipFx: {fileID: 0}
+  cooldownUiSprite: {fileID: 21300000, guid: fc006c0e19333924da28d35a367cf818, type: 3}
+  uiColor: {r: 0.5372549, g: 0.59607846, b: 0.70980394, a: 1}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 0
+  castingAudioEvent: {fileID: 0}
+  castingAudioInterval: 1
+  castingHapticEvent: {fileID: 0}
+  castingHapticInterval: 1
+  castAudioEvent: {fileID: 11400000, guid: 3d0534ed20a7a2b4baa6f898c53259d0, type: 2}
+  castHapticEvent: {fileID: 0}
+  Modifiables:
+  - {fileID: 11400000, guid: c2db1dc4efdf7db48a45cd26406c3cf3, type: 2}
+  - {fileID: 11400000, guid: 85a1b9539dc1bfe49ba4ffdb345efac2, type: 2}
+  - {fileID: 11400000, guid: 1c53bbc7d564fa3498f71598cbacc2a2, type: 2}
+  - {fileID: 11400000, guid: 0c1086496ab460b47ae14d4e6c9d5f64, type: 2}
+  - {fileID: 11400000, guid: da31c65b8f59f424dac1bc5d84f981a7, type: 2}
+  - {fileID: 11400000, guid: 8ae37ffd5e1b1994b9c8791db291ef7f, type: 2}
+  - {fileID: 11400000, guid: c8e960c25401154488b4b017afd0a766, type: 2}
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}
+  weaponPrefab: {fileID: 5928007473502977666, guid: 437afb256fd1de54cb2c994e1c4db8b4,
+    type: 3}
+  localPosition: {x: 0.076, y: -0.034, z: 0.049}
+  localEuler: {x: 180.34, y: 105.364, z: 108.14}
+  weaponRigidMass: 15
+  minHitVelocity: 4
+  hitBufferTime: 0.3
+  isDefaultLocalXScalePositive: 1
+  HitHapticEvent: {fileID: 11400000, guid: 11a4953cef67b3f469d8b395e275d209, type: 2}

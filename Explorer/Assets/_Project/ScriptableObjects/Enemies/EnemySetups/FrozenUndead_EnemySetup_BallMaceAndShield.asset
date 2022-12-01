@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d308f48d03a01624aa6c0a592bcf09fc, type: 3}
+  m_Name: FrozenUndead_EnemySetup_BallMaceAndShield
+  m_EditorClassIdentifier: 
+  runtimeAnimatorController: {fileID: 9100000, guid: 25319bd83ca6aed44b9c382aa856f56e,
+    type: 2}
+  externalBehaviorTree: {fileID: 11400000, guid: dcbe66a829c1daf43b54d09698aa0811,
+    type: 2}
+  primaryEnemyWeaponSetupSo: {fileID: 11400000, guid: e58614885abcfca47a55bca2dbb15341,
+    type: 2}
+  secondaryEnemyWeaponSetupSo: {fileID: 0}

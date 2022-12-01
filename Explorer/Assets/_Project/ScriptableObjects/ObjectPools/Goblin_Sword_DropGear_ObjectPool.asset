@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e664955e4b0219e49bd693ca64ae45d8, type: 3}
+  m_Name: Goblin_Sword_DropGear_ObjectPool
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 8422325243362337952, guid: 45cf3395624e03c4c8b9edd553dabf42,
+    type: 3}
+  poolSize: 4

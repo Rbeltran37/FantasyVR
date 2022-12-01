@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f12c5d7e6879f848b838cb83d8eab21, type: 3}
+  m_Name: Electric_ElementAudio
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 8d82e6c436f744c4a81f21d2d0af4352, type: 3}
+  - {fileID: 8300000, guid: ee4504b4ed204cd459f470cc6a9cf2e1, type: 3}
+  - {fileID: 8300000, guid: 0b16312c3a83e204daccd895224bf6aa, type: 3}
+  volume:
+    minValue: 0.69530475
+    maxValue: 1
+  pitch:
+    minValue: 0.7942057
+    maxValue: 1.2737259
+  volumeMultiplier: 0.25
+  pitchMultiplier: 0.25

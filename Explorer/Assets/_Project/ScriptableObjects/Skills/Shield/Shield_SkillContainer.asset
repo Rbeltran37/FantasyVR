@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52207b39e30cb3f448eaa7e3380672d8, type: 3}
+  m_Name: Shield_SkillContainer
+  m_EditorClassIdentifier: 
+  skillName: Shield
+  skillPrefab: {fileID: 3380448303106603627, guid: 1ce50ec8abd110747b35dac38b1742c2,
+    type: 3}
+  SkillSo: {fileID: 11400000, guid: 3d5380240d7889649b356c2a0b7157da, type: 2}

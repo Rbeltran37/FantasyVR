@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74a6b63f1a5ea49b780374a141e89f, type: 3}
+  m_Name: Hunter_SkillContainerManager
+  m_EditorClassIdentifier: 
+  skillContainers:
+  - {fileID: 11400000, guid: 02b1efde4595ca742a534a66cfcf54dd, type: 2}
+  - {fileID: 11400000, guid: 92f6270aee64eb04ead2da9ebf32b814, type: 2}
+  - {fileID: 11400000, guid: 2c5690fb29a3cec49ad80b4cc3ff22f6, type: 2}

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: a41d6b8cfbdb01e4c99a8c477d431347
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 60d2259aedc344c4c8672b92b5d9d28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 219cc1bbce92cf8468e364667b2cab69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 15fe8f73364c2244b92fb686111226c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 71b920f357d5e604f8f12a4c19266d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 527d0920ec6653146947f054ad8158da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 219cc1bbce92cf8468e364667b2cab69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TEMP_Brick_triplanar
+    second: {fileID: 2100000, guid: 219cc1bbce92cf8468e364667b2cab69, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Cube__16_.001","Cube.001","Cube.005","Cube.009","Cube.004","Cube.003","Cube.006","Cylinder.001","Cube.007","Cube","Cylinder","Cube.008","Cube.002","Cube.022","Plane.002","Cube.027","Cube.025","Cube.047","Cube.032","Cube.029","Cube.036","Cube.039","Cube.037","Cube.040","Cube.030","Cube.055","Cube.034","Cube.028","Cube.031","Cube.023","Cube.021","Cube.038","Cube.035","Cube.050","Cube.054","Cube.058","Cube.057","Cube.042","Cube.026","Cube.024","Cube.014","Cube.019","Cube.012","Cube.016","Cube.018","Cube.010","Cube.020","Cube.017","Cube.013","Cube.015","Cube.011","Cube.046","Cube.044","Cube.051","Cube.056","Cube.041","Cube.045","Cube.049","Cube.048","Cube.053","Cube.052","Plane.003","Cube.043","Cube.033","Cube.065","Cube.074","Cube.060","Cube.063","Cube.066","Cube.070","Cube.064","Cube.062","Cube.076","Cube.071","Cube.059","Cube.072","Cube.075","Cube.069","Cube.077","Cube.067","Cube.068","Cube.073","Cube.061","Cube.078","Cube.079","Cube.080","Cube.081","Cube.082"],"padding":[173,202,256,163,119,46,51,240,232,80,173,54,256,97,96,256,256,249,202,256,256,202,256,213,256,256,256,256,256,125,256,124,256,256,256,256,256,256,98,256,213,256,256,256,256,124,256,186,256,213,43,256,256,256,98,256,212,213,54,256,256,256,256,256,256,256,256,256,256,256,256,256,213,256,154,256,123,256,213,256,256,256,256,256,183,256,256,256],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

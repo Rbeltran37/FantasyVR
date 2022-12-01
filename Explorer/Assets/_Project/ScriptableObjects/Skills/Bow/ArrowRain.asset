@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aafd3773b6164420bf5c3a1a7ac32421, type: 3}
+  m_Name: ArrowRain
+  m_EditorClassIdentifier: 
+  arrowPullValue: 1
+  spawnHeightOffset: 20
+  positionOffsetValue: 1
+  arrowSpawnInterval:
+    minValue: 0.049261082
+    maxValue: 0.10431759
+  targetRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21aa682825efd3649bd9bc56448f6ee8, type: 3}
+  m_Name: Shield_Throw_AudioEvent
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ae3c34a86a71c0043a004d9e9769940f, type: 3}
+  - {fileID: 8300000, guid: 5c62352cd47a8e640af24df3cd2f2703, type: 3}
+  - {fileID: 8300000, guid: 378267095dd84b04da5f051b000d2389, type: 3}
+  - {fileID: 8300000, guid: fcdfdd741f3d09746a706925ce97c134, type: 3}
+  volume:
+    minValue: 0.40915394
+    maxValue: 0.67961156
+  pitch:
+    minValue: 2.038835
+    maxValue: 2.7045765

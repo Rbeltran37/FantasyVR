@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fist
+  - Head
+  - Body
+  - Projectile
+  - Shield
+  - Weapon
+  - Platform
+  - Destructible
+  - Drinkable
+  - Bullet
+  - VRGazeInteractable
+  - Rig
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerRagdoll
+  - PlayerCharacterController
+  - EnemyRagdoll
+  - EnemyCharacterController
+  - Interactor
+  - Interactable
+  - PlayerSkill
+  - EnemySkill
+  - Holster
+  - Ground
+  - Fist
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - HandPlayer
+  - Hand
+  - HandHolding
+  - Grabbable
+  - Grabbing
+  - Releasing
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

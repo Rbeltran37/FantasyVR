@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eeb6a447e848f549b6ccb307a2a7d39, type: 3}
+  m_Name: Goblin_Archer_WoodenBowWeapon
+  m_EditorClassIdentifier: 
+  SkillName: 
+  holsterModel: {fileID: 0}
+  holsterRing: {fileID: 0}
+  equipFx: {fileID: 0}
+  cooldownUiSprite: {fileID: 0}
+  uiColor: {r: 0, g: 0, b: 0, a: 0}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 0
+  castingAudioEvent: {fileID: 0}
+  castingAudioInterval: 0
+  castingHapticEvent: {fileID: 0}
+  castingHapticInterval: 0
+  castAudioEvent: {fileID: 0}
+  castHapticEvent: {fileID: 0}
+  Modifiables: []
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}
+  weaponPrefab: {fileID: 7430697051856782270, guid: 8aedd75b10394874eadf553888b324d5,
+    type: 3}
+  localPosition: {x: 0.091, y: 0.134, z: 0.02}
+  localEuler: {x: -56.036, y: -157.856, z: 73.604}
+  weaponRigidMass: 15
+  minHitVelocity: 4
+  hitBufferTime: 0.3
+  isDefaultLocalXScalePositive: 0
+  HitHapticEvent: {fileID: 0}

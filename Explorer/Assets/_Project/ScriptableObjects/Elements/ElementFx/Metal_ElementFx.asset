@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88eae60f197c2564cb9d00eebe034222, type: 3}
+  m_Name: Metal_ElementFx
+  m_EditorClassIdentifier: 
+  velocityRange:
+    minValue: 1
+    maxValue: 50.67961
+  sizeRange:
+    minValue: 0.01
+    maxValue: 10
+  forceRange:
+    minValue: 1
+    maxValue: 100
+  debrisSizeMaxMultiplier: 10
+  debrisSpeedMaxMultiplier: 10
+  debrisCountMaxMultiplier: 10
+  dustSizeMaxMultiplier: 5
+  dustSpeedMaxMultiplier: 5
+  dustCountMaxMultiplier: 3
+  debrisUseScaleAsSize: 0
+  dustUseScaleAsSize: 0
+  minVelocityThreshold: 2
+  effectCooldown: 0.2

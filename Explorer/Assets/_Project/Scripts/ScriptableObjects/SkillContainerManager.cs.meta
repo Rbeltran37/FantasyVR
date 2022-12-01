@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cc74a6b63f1a5ea49b780374a141e89f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iceBallPrefab: {fileID: 5317819420090970264, guid: ff1448b424c2b7148b43e0a197fbb09d,
+      type: 3}
+  - fireBallPrefab: {fileID: 755633130742962948, guid: 170834d1d43f0434986cf3ad9022442b,
+      type: 3}
+  - leftWoodenMalletPrefab: {fileID: 2194789074691383825, guid: 8b175c49da7118b4982031eb66d591d8,
+      type: 3}
+  - rightWoodenMalletPrefab: {fileID: 7479778084075983003, guid: 3a75830bf64c1fd43b4d79e32d1a0536,
+      type: 3}
+  - leftWoodenShieldPrefab: {fileID: 3328146587799063788, guid: 46695fffffddb014a94cb1ce059416db,
+      type: 3}
+  - rightWoodenShieldPrefab: {fileID: 348547341234455868, guid: 71d21f1035d8e4c41acee9e71d8afa1c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21aa682825efd3649bd9bc56448f6ee8, type: 3}
+  m_Name: GlassBreak_SimpleAudioEvent
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ed820132b9a54e34dbcbdb4f722b6b77, type: 3}
+  - {fileID: 8300000, guid: 398f5f1b0701a134ab53b3f1d95a220a, type: 3}
+  - {fileID: 8300000, guid: aaf85b814cd1f37428a6404ebf19e7cc, type: 3}
+  volume:
+    minValue: 0.8985864
+    maxValue: 1
+  pitch:
+    minValue: 0.8755928
+    maxValue: 1.306612

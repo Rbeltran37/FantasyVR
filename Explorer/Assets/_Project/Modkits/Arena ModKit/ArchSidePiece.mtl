@@ -1,0 +1,25 @@
+# Blender MTL File: 'awning.blend'
+# Material Count: 2
+
+newmtl BrickSandBlend
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\kev\\Desktop\\theVanta\\ArenaBlockout\\Arena ModKit\\ArenaBrick_1_basecolor.tga
+
+newmtl Dec_Trim
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\kev\\Documents\\Unity Projects\\SmashDemo\\Explorer\\Assets\\0_Project\\Scenes\\ArenaBlockout\\Textures\\Dec Trim\\DecorativeTrim_normal_1.tga
+map_Kd C:\\Users\\kev\\Documents\\Unity Projects\\SmashDemo\\Explorer\\Assets\\0_Project\\Scenes\\ArenaBlockout\\Textures\\Dec Trim\\DecorativeTrim_basecolor_1.tga

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f12c5d7e6879f848b838cb83d8eab21, type: 3}
+  m_Name: Flesh_ElementAudio
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 88d75d8920f5ed5478f7ef4eb9ef4378, type: 3}
+  - {fileID: 8300000, guid: 59c822a1c125e074190d5e07af8936ae, type: 3}
+  - {fileID: 8300000, guid: 8f6d4450c42cb354b83299f0f1ad3975, type: 3}
+  - {fileID: 8300000, guid: 2ecf659b490a47a4cbb708df10073517, type: 3}
+  volume:
+    minValue: 0.7102897
+    maxValue: 1
+  pitch:
+    minValue: 0.8691308
+    maxValue: 1.4835159
+  volumeMultiplier: 0.1
+  pitchMultiplier: 0.1

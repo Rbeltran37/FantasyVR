@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52207b39e30cb3f448eaa7e3380672d8, type: 3}
+  m_Name: ForcePull_SkillContainer
+  m_EditorClassIdentifier: 
+  skillName: Force Pull
+  holsterCost: 0
+  castCost: 0
+  count: 0
+  cooldown: 0
+  skillCreatorPrefab: {fileID: 2232897211365076282, guid: 543510449a7a33847b1f18bc2b5b1a28,
+    type: 3}

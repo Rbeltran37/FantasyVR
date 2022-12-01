@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21aa682825efd3649bd9bc56448f6ee8, type: 3}
+  m_Name: ForcePushAudio
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: eb9f33e0e44f246409f7b7167dc94002, type: 3}
+  volume:
+    minValue: 0.8014842
+    maxValue: 1
+  pitch:
+    minValue: 0.75695735
+    maxValue: 1.2467535

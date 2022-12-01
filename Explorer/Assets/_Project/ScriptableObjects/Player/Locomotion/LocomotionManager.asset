@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f089a7bedf65478e95531d08cabb1e69, type: 3}
+  m_Name: LocomotionManager
+  m_EditorClassIdentifier: 
+  stickAssignedThumbstick: 1
+  stickLocomotionOffSensitivity: 0.2
+  stickLocomotionSpeed: 3
+  runAxisThreshold: 0.8
+  stickUseHeadsetForward: 1
+  useMoveInPlace: 0
+  smoothAssignedThumbstick: 0
+  smoothOffSensitivity: 0.1
+  smoothTurningSpeed: 1
+  snapAssignedThumbstick: 2
+  snapTurnDegrees: 30
+  snapOffSensitivity: 0.1
+  snapOnSensitivity: 0.85
+  heightAdjustHeightOffset: 0.1
+  jumpForce: 5
+  jumpCooldown: 0.2
+  jumps: 1
+  groundOffset: 0.05
+  fallingRaycastDistance: 0.5
+  groundedRaycastDistance: 0.1
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 131073
+  dashDistance: 15
+  dashSpeed: 0.06
+  dashSphereRadius: 1.5
+  dashSetDistance: 0.6
+  dashMinDistance: 1.4
+  dashAgentStunTime: 1
+  dashStunOnStart: 0
+  dashTargetLayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  comfortLevel: 0
+  moveInPlaceSpeedScale: 1
+  moveInPlaceMaxSpeed: 4
+  moveInPlaceDeceleration: 0.1
+  moveInPlaceSensitivity: 0.015
+  moveInPlaceUseHeadset: 1

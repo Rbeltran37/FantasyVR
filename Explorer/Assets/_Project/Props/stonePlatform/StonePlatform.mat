@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StonePlatform
+  m_Shader: {fileID: -6465566751694194690, guid: 2da73cce6b4f4ac4489f9ec2c748ab55,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3CFF64BF:
+        m_Texture: {fileID: 2800000, guid: a0651d2930a6dea44b0d99e12483736c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AED837A8:
+        m_Texture: {fileID: 2800000, guid: 43ade7ad4df4b324fbf06554da61fab0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D10A3308:
+        m_Texture: {fileID: 2800000, guid: adbff87367da11c42bb423e448d38b58, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D6ADD94F:
+        m_Texture: {fileID: 2800000, guid: 1e65b68a72a8d8a4da22ea286c833655, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_232AB160_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a0651d2930a6dea44b0d99e12483736c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3388CD58_Texture_1:
+        m_Texture: {fileID: 2800000, guid: adbff87367da11c42bb423e448d38b58, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_D7FB5334_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 43ade7ad4df4b324fbf06554da61fab0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_FC5400C9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 1e65b68a72a8d8a4da22ea286c833655, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_667386EE: 0.3
+    - Vector1_A9A17370: 0
+    - Vector1_E69312B8: 45.91
+    - Vector1_F7E1B481: 4.4
+    - Vector1_GlowAmount: 0
+    m_Colors:
+    - Color_8AB555B6: {r: 0.5943396, g: 0.49855924, b: 0.31679422, a: 0}

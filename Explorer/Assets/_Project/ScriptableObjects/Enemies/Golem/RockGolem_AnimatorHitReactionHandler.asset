@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cddd735db5b5d24680fd127c00674f4, type: 3}
+  m_Name: RockGolem_AnimatorHitReactionHandler
+  m_EditorClassIdentifier: 
+  minDamageThresholdHead: 250
+  strongHitThresholdHead: 500
+  minDamageThresholdHips: 250
+  strongHitThresholdHips: 500
+  minDamageThresholdArms: 250
+  strongHitThresholdArms: 500
+  minDamageThresholdLegs: 250
+  strongHitThresholdLegs: 500

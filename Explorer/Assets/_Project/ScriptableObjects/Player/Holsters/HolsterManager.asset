@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b07ad0d8543eb2f47b6c0f6e2ac81e68, type: 3}
+  m_Name: HolsterManager
+  m_EditorClassIdentifier: 
+  leftWaistSkill: {fileID: 11400000, guid: 3f0471bbf92a2d347b1ce67c2fde2792, type: 2}
+  rightWaistSkill: {fileID: 11400000, guid: 74dc264aa0cff8948af5212bec016968, type: 2}
+  leftBackSkill: {fileID: 11400000, guid: dbad0b77107a1ff4fb1039bec0f42ab7, type: 2}
+  rightBackSkill: {fileID: 11400000, guid: e7b039fb41452f245bf0e077ef733415, type: 2}
+  waistDistanceFromHeadset: 0.6
+  waistDistanceFromCenter: 0.3
+  backDistanceFromHeadset: 0.25
+  backDistanceFromCenter: 0.25
+  EnterHapticEvent: {fileID: 11400000, guid: 9c05adcf18d7de94b8b155a25625cfce, type: 2}
+  EquipHapticEvent: {fileID: 11400000, guid: 61ce22d92e552bb44bd2a736df33aef7, type: 2}
+  cooldownClip: {fileID: 8300000, guid: ffab6c796b61573448d2c5ac8afd8fb4, type: 3}
+  filledBufferTime: 1
+  emptyClip: {fileID: 8300000, guid: fb6f5a901bc43c5459a2655b69fbb61f, type: 3}
+  invalidClip: {fileID: 8300000, guid: 5a8cf68b45737344e9b401849ddc10a0, type: 3}
+  ringLaunchForce: 4
+  ringLife: 0.3
+  startSize: 0.1
+  sizeIncrement: 0.02
+  timeIncrement: 0.2

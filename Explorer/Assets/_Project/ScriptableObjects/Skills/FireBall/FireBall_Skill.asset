@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e220063c5dc99a41a59d6d999974686, type: 3}
+  m_Name: FireBall_Skill
+  m_EditorClassIdentifier: 
+  SkillName: Fire Ball
+  holsterModel: {fileID: 7222795474065904334, guid: 8ad1a77c0f6a2d842b7a93ae3bf3b126,
+    type: 3}
+  holsterRing: {fileID: 8991324447943036254, guid: c15a3b0b87d2b1b4686e2ee1ec7313e2,
+    type: 3}
+  equipFx: {fileID: 2696722306437082447, guid: 02713655579251f4daad9f6fd5b51728, type: 3}
+  cooldownUiSprite: {fileID: 21300000, guid: f5150d39852d0d74382e61497f5d2d5e, type: 3}
+  uiColor: {r: 1, g: 0.65882355, b: 0, a: 1}
+  usedByOtherHand: 0
+  isTwoHanded: 0
+  castType: 0
+  castingAudioEvent: {fileID: 0}
+  castingAudioInterval: 0
+  castingHapticEvent: {fileID: 0}
+  castingHapticInterval: 0
+  castAudioEvent: {fileID: 11400000, guid: b2f7dd3a2d7283a4a977503d5f128ab1, type: 2}
+  castHapticEvent: {fileID: 11400000, guid: 0a6f027b64f67be408f0c3117e516579, type: 2}
+  Modifiables:
+  - {fileID: 11400000, guid: a38d38e040c92364d9b727fdbd11473c, type: 2}
+  - {fileID: 11400000, guid: 66bc3dae7e929954ca40dac5417e2e78, type: 2}
+  - {fileID: 11400000, guid: e6add5702ab800c47a0993f8880931f9, type: 2}
+  - {fileID: 11400000, guid: 62a35bf77bcf9134db00991a6c33b31d, type: 2}
+  - {fileID: 11400000, guid: de7ebfc2029dc8a4eb39ce09ae09670f, type: 2}
+  - {fileID: 11400000, guid: ceff9f66a2e18f24eb3e80a742473b34, type: 2}
+  - {fileID: 11400000, guid: 91c244a9f32f1484f99ae641f6275472, type: 2}
+  ModifierTypeLookUp: {fileID: 11400000, guid: 519f21803bfd13c4ba2b9345159618a0, type: 2}
