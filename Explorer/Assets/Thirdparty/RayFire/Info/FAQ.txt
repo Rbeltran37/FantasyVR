@@ -1,0 +1,19 @@
+RayFire for Unity FAQ.
+
+-------------------------------------------------------------
+
+1. 
+Q.  I can't demolish objects which I have as FBX asset.
+A.  Turn On Read/Write Enabled property in Import Settings.
+
+-------------------------------------------------------------
+
+2. 
+Q.  How to apply different material for inner fragments surface?
+A.  Both Shatter and Rigid components have Material group of properties.
+    You can set your custom material for fragment's inner surface in Inner Material field.
+
+-------------------------------------------------------------
+
+
+3. Mesh prefab problem
