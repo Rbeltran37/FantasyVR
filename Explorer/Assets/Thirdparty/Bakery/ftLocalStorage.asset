@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ca84e725c7c764aa5ed097918d14b7, type: 3}
+  m_Name: ftLocalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList:
+  - Assets/_Project/Scenes/Armory/Meshes/Armory_B.fbx
+  - Assets/_Project/Scenes/Armory/Meshes/Armory_C.fbx
+  - Assets/_Project/Scenes/Armory/Meshes/Armory_E.fbx
+  - Assets/_Project/Scenes/Armory/Meshes/Armory_D.fbx
+  - Assets/_Project/Scenes/Armory/Meshes/Armory_A.fbx
+  - Assets/_Project/Props/MarketStall/MarketStall.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/Tower.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/a3.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/b2.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/c2.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/a2.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/support_1.fbx
+  - Assets/_Project/Props/Brick/bricks.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/a1.fbx
+  - Assets/_Project/Props/foliage/tree_01.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/c3.fbx
+  - Assets/_Project/Scenes/Arena/Levels Meshes/level_01.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/c1.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/support_2.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/Arena_Building_01.fbx
+  - Assets/_Project/Props/Cart/cart.fbx
+  - Assets/_Project/Props/Rugs/Rug_05.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/arenaCenterPiece.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/b3.fbx
+  - Assets/_Project/Props/Rugs/Rug_04.fbx
+  - Assets/_Project/Scenes/Arena/Meshes/ArenaGroupedFBX/b1.fbx
+  - Assets/_Project/Props/foliage/tree_02.fbx
+  - Assets/_Project/Props/foliage/tree_02_LOD1.fbx
+  - Assets/_Project/Props/foliage/tree_02_LOD2.fbx
+  - Assets/_Project/Props/GrainBag/GrainBag.fbx
+  - Assets/_Project/Props/Log/Pile.fbx
+  - Assets/_Project/Props/Rugs/RugStand.fbx
+  - Assets/_Project/Props/Rugs/Rug_02.fbx
+  - Assets/_Project/Props/GrainBag/Pile.fbx
+  - Assets/_Project/Props/Rugs/Rug_03.fbx
+  modifiedAssetPaddingHash: 323fd3d9323fd3d93f3fd3d9333fd3d9f98f1ac28d42fa7cf1f23a06d7c2a6938c67e2a81b3a8033d7c2a693bc4608c861dd894bd7c2a693feb209ce4adc894bff1f3d714adc894bccc124911a54850a0ca3ddde28a3dddef4ffd1fe4adc894b2128c1154adc894bee37ed04e837ed04eb37ed04ecc12491ecc12491ecc12491ecc12491ecc12491ecc12491
