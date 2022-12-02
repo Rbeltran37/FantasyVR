@@ -1,1 +1,1 @@
-# SmashDemo
+# Fantasy VR Game (Multiplayer)
